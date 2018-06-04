@@ -26,4 +26,5 @@ Other useful commands to see what is going on the git repository:
 ## Discuss
 
 What is the difference between `add`, `commit`, and `push`?
-Hello there: Its Zakaria
+Hello there: Its Zakarmaking changes
+hey to changes
